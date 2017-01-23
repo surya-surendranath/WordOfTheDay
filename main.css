@@ -1,0 +1,18 @@
+.button {
+  font-family: 'Tangerine', serif;
+  height: 50px;
+  width: 150px;
+  margin: 20px auto;
+  color: rgba(0,0,0,1);
+  background-color: #0099ee;
+  text-align: center; 
+  font-size: 16px;
+  border-radius: 15px;
+  box-shadow: -5px 5px 10px rgba(100,100,100,.8);
+  margin-top: 100px;
+  font-weight: bold;
+
+}
+h1 {
+  text-align: center;
+}
